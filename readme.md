@@ -2,8 +2,8 @@
 
 오늘 수업에서 실습과 코딩 시간이 더 많이 있습니다. 이 수업 실습은 두 부분으로 나뉩니다.
 
-1. '웹프로그래밍 (및 Bootstrap) 복습' (**2주차 과제**)
-2. '노드 웹 앱 만들기' (**4주차 과제**)
+1. '웹프로그래밍 (및 Bootstrap) 복습' (**[2주차 과제](https://github.com/ut-nodejs/0-starting-nodejs)**)
+2. '노드 웹 앱 만들기' (**[4주차 과제](https://github.com/ut-nodejs/2-webserver-capstone)**)
 
 ---
 
